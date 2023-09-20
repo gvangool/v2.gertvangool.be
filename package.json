@@ -1,4 +1,10 @@
 {
+  "name": "gertvangool",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.18"
+  },
+  "private": true,
   "devDependencies": {
     "prettier": "^2.7.1",
     "tailwindcss": "^3.1.4"
